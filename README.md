@@ -22,24 +22,24 @@ The second part includes the analysis of weather data subsequent to web scraping
 
 ![MarsWeatherPyFigure51AverageLowTemperaturebyMonthonMars](https://github.com/njgeorge000158/Mars-News-and-Weather-Web-Scraping-and-Analysis/assets/137228821/a7fca727-1fda-4c57-bc71-67aacdfcd753)
 
-    On average, the month with the coldest minimum temperature on Mars in Curiosity's location is number 3, and the month with the warmest is number 8.
+   On average, the month with the coldest minimum temperature on Mars in Curiosity's location is number 3, and the month with the warmest is number 8.
 
 * Which months have the lowest and the highest atmospheric pressure on Mars?
 
 ![MarsWeatherPyFigure52AverageDailyAtmosphericPressurebyMonth](https://github.com/njgeorge000158/Mars-News-and-Weather-Web-Scraping-and-Analysis/assets/137228821/30bde89f-65b7-440d-a17c-813905d0cc44)
 
-    On average, the month with the lowest atmospheric pressure on Mars in Curiosity's location is number 6, and the month with the highest is number 9.
+   On average, the month with the lowest atmospheric pressure on Mars in Curiosity's location is number 6, and the month with the highest is number 9.
 
 * About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
 
 ![MarsWeatherPyFigure54SolarLongitudevsTimewithPeaks](https://github.com/njgeorge000158/Mars-News-and-Weather-Web-Scraping-and-Analysis/assets/137228821/89b9458d-4629-4f21-a345-03c49e89fad6)
 
-    According to peaks in solar longitude from the data set, there are 687 Earth days in a Martian year,
+   According to peaks in solar longitude from the data set, there are 687 Earth days in a Martian year,
 which is the same as the 687 Earth days found through an Internet search.
 
 ![MarsWeatherPyFigure56TemperaturevsTimewithPeaks](https://github.com/njgeorge000158/Mars-News-and-Weather-Web-Scraping-and-Analysis/assets/137228821/782fcc93-bed6-41e6-8b8c-ed7149eb2e60)
 
-    According to peaks in minimum temperatures from the data set, the number of Earth days in a Martian
+   According to peaks in minimum temperatures from the data set, the number of Earth days in a Martian
 year range from 674 to 701 with an average of 687.5, which is about the same as the 687 Earth days
 found through an Internet search.
 
