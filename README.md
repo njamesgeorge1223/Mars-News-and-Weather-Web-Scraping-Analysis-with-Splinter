@@ -44,3 +44,9 @@ year range from 674 to 701 with an average of 687.5, which is about the same as 
 found through an Internet search.
 
 Ultimately, this project demonstrates effective use of web scraping to collect and analyze data. In this case, the findings provide valuable insights into Martian temperature, atmospheric pressure, and years.  Upon completion of the analysis, I exported all my results to the Images folder and a CSV file in the Resources folder, MarsWeatherData.csv.  
+
+----
+
+## Copyright
+
+N. James George © 2023. All Rights Reserved.
