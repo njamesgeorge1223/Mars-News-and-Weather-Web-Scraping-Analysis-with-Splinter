@@ -2,18 +2,10 @@
 
 ----
 
-This Challenge is a full web-scraping and data analysis project.  To complete this task, I had to identify HTML elements on a page, find their id and class attributes, and use this knowledge to extract information via both automated browsing with Splinter and HTML parsing with Beautiful Soup. The types of information include HTML tables and recurring elements such as multiple news articles on a webpage.  As with all such projects, 
-I have to collect data, organize and store it, and then visually communicating my insights.
+This Challenge is a full web-scraping and data analysis project.  To complete this task, I have to identify HTML elements on a page, find their id and class attributes, and use this knowledge to extract information via both automated browsing with Splinter and HTML parsing with Beautiful Soup. The types of information include HTML tables and recurring elements such as multiple news articles on a webpage.  As with all such projects, 
+its completion requires the collection, organization and storage of data, and then the visual communication of any insights.
 
-Part 1: Scrape Titles and Preview Text from Mars News
-Open the Jupyter Notebook in the starter code folder named part_1_mars_news.ipynb. You will work in this code as you follow the steps below to scrape the Mars News website.
-
-Use automated browsing to visit the Mars news siteLinks to an external site.. Inspect the page to identify which elements to scrape.
-
-HINT
-Create a Beautiful Soup object and use it to extract text elements from the website.
-
-Extract the titles and preview text of the news articles that you scraped. Store the scraping results in Python data structures as follows:
+For the first part, Part 1: I use automated browsing with Splinter to visit the [Mars News Website](https://static.bc-edx.com/data/web/mars_news/index.html).  After a visual inspection of the webpage to identify which elements to scrape, I create a Beautiful Soup object and use it to extract text elements.  From these elements, I retrieve the titles and preview text of the news articles that you scraped before storing the information in a List of Python Dictionaries.  After displaying the results, I write the information to a JSON file in the Resources folder, MarsNewsData.json.
 
 Store each title-and-preview pair in a Python dictionary and, give each dictionary two keys: title and preview. An example is the following:
 
