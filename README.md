@@ -42,4 +42,4 @@ which is the same as the 687 Earth days found through an Internet search.
 year range from 674 to 701 with an average of 687.5, which is about the same as the 687 Earth days
 found through an Internet search.
 
-To complete this project, I exported all my results to the Images folder and a CSV file in the Resources folder, MarsWeatherData.csv.
+Upon completion of the analysis, I exported all my results to the Images folder and a CSV file in the Resources folder, MarsWeatherData.csv.  Ultimately, this project demonstrates effective use of web scraping to collect and analyze data. In this case, the findings provide valuable insights into Martian temperature, atmospheric pressure, and years.
