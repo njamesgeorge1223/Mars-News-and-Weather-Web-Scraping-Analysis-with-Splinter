@@ -1,0 +1,74 @@
+
+Timepoint: 09/18/2023 10:51:54
+Program execution begins...
+
+
+
+Timepoint: 09/18/2023 10:51:59
+There are 12 months on Mars.
+
+
+Timepoint: 09/18/2023 10:51:59
+There are 1,867 Martian days worth of data on this webpage.
+
+
+Timepoint: 09/18/2023 10:51:59
+On average, the month with the coldest minimum daily temperature on Mars in Curiosity's location is number 3.
+
+
+Timepoint: 09/18/2023 10:51:59
+On average, the month with the warmest minimum daily temperature on Mars in Curiosity's location is number 8.
+
+
+Timepoint: 09/18/2023 10:52:00
+On average, the month with the lowest daily atmospheric pressure on Mars in Curiosity's location is number 6.
+
+
+Timepoint: 09/18/2023 10:52:00
+On average, the month with the highest daily atmospheric pressure on Mars in Curiosity's location is number 9.
+
+
+Timepoint: 09/18/2023 10:52:01
+According to peaks in solar longitude from the data set, there are 687 Earth days in a Martian year, which is the same as the 687 Earth days found through an Internet search.
+
+
+Timepoint: 09/18/2023 10:52:02
+According to peaks in minimum daily temperatures, the number of Earth days in a Martian year range from 674 to 701 with an average of 687.5, which is about the same as the 687 Earth days found through an Internet search.
+
+
+Timepoint: 09/18/2023 10:52:23
+Program execution begins...
+
+
+
+Timepoint: 09/18/2023 10:52:27
+There are 12 months on Mars.
+
+
+Timepoint: 09/18/2023 10:52:27
+There are 1,867 Martian days worth of data on this webpage.
+
+
+Timepoint: 09/18/2023 10:52:28
+On average, the month with the coldest minimum daily temperature on Mars in Curiosity's location is number 3.
+
+
+Timepoint: 09/18/2023 10:52:28
+On average, the month with the warmest minimum daily temperature on Mars in Curiosity's location is number 8.
+
+
+Timepoint: 09/18/2023 10:52:28
+On average, the month with the lowest daily atmospheric pressure on Mars in Curiosity's location is number 6.
+
+
+Timepoint: 09/18/2023 10:52:28
+On average, the month with the highest daily atmospheric pressure on Mars in Curiosity's location is number 9.
+
+
+Timepoint: 09/18/2023 10:52:29
+According to peaks in solar longitude from the data set, there are 687 Earth days in a Martian year, which is the same as the 687 Earth days found through an Internet search.
+
+
+Timepoint: 09/18/2023 10:52:30
+According to peaks in minimum daily temperatures, the number of Earth days in a Martian year range from 674 to 701 with an average of 687.5, which is about the same as the 687 Earth days found through an Internet search.
+
