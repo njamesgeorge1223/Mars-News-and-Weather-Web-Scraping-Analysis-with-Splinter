@@ -1,3 +1,5 @@
+This folder holds the images of tables and plots displayed in the IPython notebooks, MarsNewsPy.ipynb and MarsWeatherPy.ipynb.
+
 ----
 
 ## Copyright
