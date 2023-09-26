@@ -1,4 +1,4 @@
-This folder includes the output files from the IPython Notebooks, MarsNewsPy.ipynb and MarsWeatherPy.ipynb.
+This folder holds the output files from the IPython Notebooks, MarsNewsPy.ipynb and MarsWeatherPy.ipynb.
 
 ----
 
