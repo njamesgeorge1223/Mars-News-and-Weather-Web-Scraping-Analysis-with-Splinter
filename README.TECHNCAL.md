@@ -119,7 +119,7 @@ Jupyter Notebook, Matplotlib, Numpy, Pandas, Python 3.11.4, Scipy, Selenium
 
   &emsp; |&rarr; [./Images/MarsWeatherPyFigure51AverageMinimumDailyTemperaturebyMonthonMars.png](./Images/MarsWeatherPyFigure51AverageMinimumDailyTemperaturebyMonthonMars.png)
   
-  &emsp; |&rarr; [./Images/MarsWeatherPyFigure52AverageDailyAtmosphericPressurebyMonth.png](./Images/MarsWeatherPyFigure52AverageDailyAtmosphericPressurebyMonth.png)
+  &emsp; |&rarr; [./Images/MarsWeatherPyFigure52AverageDailyAtmosphericPressurebyMonthonMars.png](./Images/MarsWeatherPyFigure52AverageDailyAtmosphericPressurebyMonthonMars.png)
   
   &emsp; |&rarr; [./Images/MarsWeatherPyFigure53SolarLongitudevsEarthTime.png](./Images/MarsWeatherPyFigure53SolarLongitudevsEarthTime.png)
   
