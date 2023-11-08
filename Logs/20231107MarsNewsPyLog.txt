@@ -1,0 +1,298 @@
+
+Timepoint: 11/07/2023 20:18:14
+Program execution begins...
+
+
+
+Timepoint: 11/07/2023 20:19:33
+Program execution begins...
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #1:
+TITLE: NASA's Curiosity Rover Clocks 4,000 Days on Mars
+PREVIEW: The mission team is making sure the robotic scientist is staying strong, despite wear and tear from its 11-year journey.
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #2:
+TITLE: NASA Technologies Receive Multiple Nods in TIME Inventions of 2023
+PREVIEW: MOXIE, the oxygen-generating experiment aboard NASA’s Perseverance Mars rover, is among the technologies honored by the magazine.
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #3:
+TITLE: NASA Is Locating Ice on Mars With This New Map
+PREVIEW: The map could help the agency decide where the first astronauts to the Red Planet should land. The more available water, the less missions will need to bring.
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #4:
+TITLE: NASA's Perseverance Captures Dust-Filled Martian Whirlwind 
+PREVIEW: The six-wheeled geologist spotted the twister as part of an atmospheric exploration of Jezero Crater.
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #5:
+TITLE: Historic Wind Tunnel Facility Testing NASA's Mars Ascent Vehicle Rocket
+PREVIEW: The same facility that provided valuable testing for NASA missions to low-Earth orbit and the Moon is now helping the agency prepare to launch the first rocket from Mars.
+
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #6:
+TITLE: NASA Releases Independent Review's Mars Sample Return Report
+PREVIEW: The agency established the board in May 2023 to evaluate the technical, cost, and schedule plans prior to confirmation of the mission’s design.
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #7:
+TITLE: Autonomous Systems Help NASA's Perseverance Do More Science on Mars
+PREVIEW: A computer pilot helps NASA’s six-wheeled geologist as it searches for rock samples that could be brought to Earth for deeper investigation.
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #8:
+TITLE: NASA's Curiosity Reaches Mars Ridge Where Water Left Debris Pileup
+PREVIEW: Believed to be a remnant of powerful ancient debris flows, Gediz Vallis Ridge is a destination long sought by the rover’s science team.
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #9:
+TITLE: NASA's Oxygen-Generating Experiment MOXIE Completes Mars Mission
+PREVIEW: Riding with the Perseverance rover, the instrument has proved to be a viable technology for astronauts on Mars to produce oxygen for fuel and breathing.
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #10:
+TITLE: NASA, Partners Study Ancient Life in Australia to Inform Mars Search
+PREVIEW: NASA is working with its international partners to study the ancient Earth as it relates to Mars
+
+
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #11:
+TITLE: Watch NASA Engineers Put a Mars Lander's Legs to the Test
+PREVIEW: Sturdy legs are needed to absorb the impact of the heaviest spacecraft to ever touch down on the Red Planet.
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #12:
+TITLE: Cracks in Ancient Martian Mud Surprise NASA's Curiosity Rover Team
+PREVIEW: A new paper suggests the same conditions that created the cracks could have been favorable to the emergence of microscopic life.
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #13:
+TITLE: NASA's Ingenuity Mars Helicopter Flies Again After Unscheduled Landing
+PREVIEW: The helicopter performed a short hop to help the team better understand why its previous flight was interrupted.
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #14:
+TITLE: NASA InSight Study Finds Mars Is Spinning Faster
+PREVIEW: Data sent by the spacecraft before it retired last December has provided new details about how fast the planet fast rotates and how much it wobbles.
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #15:
+TITLE: NASA's Curiosity Rover Faces Its Toughest Climb Yet on Mars
+PREVIEW: Shortly before the rover’s 11th anniversary on the Red Planet, its team helped guide it up a steep, slippery slope to examine meteor craters.
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #16:
+TITLE: NASA Mars Ascent Vehicle Continues Progress Toward Mars Sample Return
+PREVIEW: The first rocket launch from the surface of another planet will be accomplished using two solid rocket motors.
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #17:
+TITLE: NASA's Perseverance Rover Sees Mars in a New Light
+PREVIEW: A cutting-edge instrument called SHERLOC, which hunts for molecules potentially related to ancient life, played a key role in a recent study.
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #18:
+TITLE: Ancient River Is Helping NASA's Perseverance Mars Rover Do Its Work
+PREVIEW: The six-wheeled geologist is getting some assistance in its in search for diverse rock samples that could be brought to Earth for deeper investigation.
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #19:
+TITLE: NASA's Ingenuity Mars Helicopter Phones Home
+PREVIEW: The intrepid rotorcraft may head skyward again within the week.
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #20:
+TITLE: NASA's MAVEN Spacecraft Stuns with Ultraviolet Views of Red Planet
+PREVIEW: NASA’s MAVEN (Mars Atmosphere and Volatile EvolutioN) mission acquired stunning views of Mars in two ultraviolet images taken at different points along our neighboring planet’s orbit around the Sun.
+
+
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #21:
+TITLE: Landing in Living Rooms: LEGO Models of NASA Mars Rover and Helicopter
+PREVIEW: A new STEM-themed kit developed in cooperation with NASA-JPL is designed to spark kids’ interest in engineering and space via traditional toys and augmented reality.
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #22:
+TITLE: NASA's Curiosity Captures Martian Morning, Afternoon in New 'Postcard'
+PREVIEW: Lighting from two times of day was combined for a stunning view of terrain that the rover is leaving behind.
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #23:
+TITLE: Why – and How – NASA Gives a Name to Every Spot It Studies on Mars
+PREVIEW: Martian maps are full of monikers recognizing places on Earth, explorers, and even cartoon characters. 
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #24:
+TITLE: NASA's Perseverance Rover Captures View of Mars' Belva Crater
+PREVIEW: The six-wheeled scientist encountered the crater during its latest science campaign in search of rock samples that could be brought to Earth for deeper investigation.
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #25:
+TITLE: Images From NASA's Perseverance May Show Record of Wild Martian River
+PREVIEW: Evidence left in rocks is leading scientists to rethink what watery environments looked like on ancient Mars.
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #26:
+TITLE: NASA Retires Mineral Mapping Instrument on Mars Orbiter
+PREVIEW: One of six instruments aboard the agency’s Mars Reconnaissance Orbiter, CRISM produced global maps of minerals on the Red Planet’s surface.
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #27:
+TITLE: NASA InSight Study Provides Clearest Look Ever at Martian Core
+PREVIEW: A pair of quakes in 2021 sent seismic waves deep into the Red Planet’s core, giving scientists the best data yet on its size and composition. 
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #28:
+TITLE: NASA Selects 10 Scientists for International Mission to Martian Moons 
+PREVIEW: JPL’s Abigail Fraeman will help study the composition of Phobos and Deimos using instruments on the Japan Aerospace Exploration Agency’s spacecraft.
+
+
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #29:
+TITLE: NASA's Ingenuity Mars Helicopter Completes 50th Flight
+PREVIEW: The history-making rotorcraft has recently been negotiating some of the most hazardous terrain it’s encountered on the Red Planet. 
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #30:
+TITLE: NASA's Curiosity Mars Rover Gets a Major Software Upgrade
+PREVIEW: The update brings loads of improvements, the most significant being new driving capabilities.
+
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #31:
+TITLE: NASA to Convene Mars Sample Return Review
+PREVIEW: The board, initiated by NASA, will provide added confidence that the program won’t exceed guidelines following an important upcoming milestone. 
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #32:
+TITLE: New Interactive Mosaic Uses NASA Imagery to Show Mars in Vivid Detail
+PREVIEW: Both scientists and the public can navigate a new global image of the Red Planet that was made at Caltech using data from NASA’s Mars Reconnaissance Orbiter.
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #33:
+TITLE: NASA's Perseverance Collects First Mars Sample of New Science Campaign
+PREVIEW: The rover continues its hunt for rocks worthy of bringing to Earth for further study.
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #34:
+TITLE: Engineers Keep an Eye on Fuel Supply of NASA's Oldest Mars Orbiter
+PREVIEW: Measuring the fuel supply on a decades-old spacecraft without a fuel gauge is no easy task. 
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #35:
+TITLE: NASA's Curiosity Views First 'Sun Rays' on Mars
+PREVIEW: The veteran rover captured a dazzling sunset at the start of a new cloud-imaging campaign.
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #36:
+TITLE: NASA's Perseverance Rover Set to Begin Third Year at Jezero Crater
+PREVIEW: After completing the first sample depot on another world, the rover continues its hunt for Mars rocks worthy of study on Earth.
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #37:
+TITLE: NASA's Perseverance Rover Shows Off Collection of Mars Samples
+PREVIEW: The Red Planet rover snapped a portrait of the sample depot it has assembled with 10 backup sample tubes that could be returned to Earth by a future mission.
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #38:
+TITLE: NASA's Curiosity Finds Surprise Clues to Mars' Watery Past
+PREVIEW: Among other discoveries made by the rover, rippled rock textures suggest lakes existed in a region of ancient Mars that scientists expected to be drier. 
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #39:
+TITLE: NASA's Perseverance Rover Completes Mars Sample Depot
+PREVIEW: Ten sample tubes, capturing an amazing variety of Martian geology, have been deposited on Mars’ surface so they could be studied on Earth in the future.
+
+
+
+Timepoint: 11/07/2023 20:19:35
+NEWS ARTICLE #40:
+TITLE: NASA Explores a Winter Wonderland on Mars
+PREVIEW: Cube-shaped snow, icy landscapes, and frost are all part of the Red Planet’s coldest season.
+
+
