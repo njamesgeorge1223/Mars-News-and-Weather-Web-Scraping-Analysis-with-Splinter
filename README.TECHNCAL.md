@@ -143,13 +143,13 @@ Jupyter Notebook, Matplotlib, Numpy, Pandas, Python 3.11.4, Scipy, Selenium
 
 |&rarr; [./Logs/](./Logs/)
 
-  &emsp; |&rarr; [./Logs/20230922MarsNewsPyDebug.txt](./Logs/20230922MarsNewsPyDebug.txt)
+  &emsp; |&rarr; [./Logs/20231107MarsNewsPyDebug.txt](./Logs/20231107MarsNewsPyDebug.txt)
 
-  &emsp; |&rarr; [./Logs/20230922MarsNewsPyLog.txt](./Logs/20230922MarsNewsPyLog.txt)
+  &emsp; |&rarr; [./Logs/20231107MarsNewsPyLog.txt](./Logs/20231107MarsNewsPyLog.txt)
 
-  &emsp; |&rarr; [./Logs/20230922MarsWeatherPyDebug.txt](./Logs/20230922MarsWeatherPyDebug.txt)
+  &emsp; |&rarr; [./Logs/20231107MarsWeatherPyDebug.txt](./Logs/20231107MarsWeatherPyDebug.txt)
 
-  &emsp; |&rarr; [./Logs/20230922MarsWeatherPyLog.txt](./Logs/20230922MarsWeatherPyLog.txt)
+  &emsp; |&rarr; [./Logs/20231107MarsWeatherPyLog.txt](./Logs/20231107MarsWeatherPyLog.txt)
 
   &emsp; |&rarr; [./Logs/README.md](./Logs/README.md)
 
